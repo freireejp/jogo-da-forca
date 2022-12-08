@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eder\\source\\repos\\Forca\\Forca\\Forca.csproj": {}
+    "C:\\workspace\\Forca\\Forca\\Forca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eder\\source\\repos\\Forca\\Forca\\Forca.csproj": {
+    "C:\\workspace\\Forca\\Forca\\Forca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eder\\source\\repos\\Forca\\Forca\\Forca.csproj",
+        "projectUniqueName": "C:\\workspace\\Forca\\Forca\\Forca.csproj",
         "projectName": "Forca",
-        "projectPath": "C:\\Users\\Eder\\source\\repos\\Forca\\Forca\\Forca.csproj",
+        "projectPath": "C:\\workspace\\Forca\\Forca\\Forca.csproj",
         "packagesPath": "C:\\Users\\Eder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eder\\source\\repos\\Forca\\Forca\\obj\\",
+        "outputPath": "C:\\workspace\\Forca\\Forca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
